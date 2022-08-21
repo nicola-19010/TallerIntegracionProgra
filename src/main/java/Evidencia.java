@@ -5,7 +5,7 @@ public class Evidencia {
     }
 
     public static void saludar(String nombre){
-        System.out.println("Hola soy "+nombre);
+        System.out.println("Hola soy: "+nombre);
     }
 
     public static void evidenciar(){
